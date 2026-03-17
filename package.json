@@ -1,8 +1,8 @@
 {
-  "name": "wizytowka-nr1",
+  "name": "wizytowka-nr4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KlaraQueen.github.io/wizytowka-numer-jeden",
+  "homepage": "https://klaraqueen.github.io/wizytowka-numer-cztery/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
