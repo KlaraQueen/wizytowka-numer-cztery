@@ -33,7 +33,7 @@ const Gallery = () => {
       document.removeEventListener("keydown", handleKey);
       document.body.style.overflow = "";
     };
-  }, [selectedIndex]);
+  }, [selectedIndex, photos.length]);
 
   return (
     <S.Section>
