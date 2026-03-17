@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/wizytowka-numer-jeden/static/js/main.1dc1f524.js",
-    "static/media/hero.jpg": "/wizytowka-numer-jeden/static/media/hero.568114dd957ffaa00a0d.jpg",
-    "static/media/gallery-2.png": "/wizytowka-numer-jeden/static/media/gallery-2.d0caed4251ce0e3bf12d.png",
-    "static/media/gallery-3.png": "/wizytowka-numer-jeden/static/media/gallery-3.aff7cdc100278296e43f.png",
-    "static/media/gallery-1.png": "/wizytowka-numer-jeden/static/media/gallery-1.b2a31b0df4ac4fcfbef3.png",
-    "static/media/gallery-4.jpg": "/wizytowka-numer-jeden/static/media/gallery-4.7b5b45115245863f6181.jpg",
-    "static/media/team.jpg": "/wizytowka-numer-jeden/static/media/team.6acd817379e0d3833889.jpg",
-    "index.html": "/wizytowka-numer-jeden/index.html",
-    "main.1dc1f524.js.map": "/wizytowka-numer-jeden/static/js/main.1dc1f524.js.map"
+    "main.js": "/wizytowka-numer-cztery/static/js/main.2115a2fc.js",
+    "static/media/hero.jpg": "/wizytowka-numer-cztery/static/media/hero.568114dd957ffaa00a0d.jpg",
+    "static/media/gallery-2.png": "/wizytowka-numer-cztery/static/media/gallery-2.d0caed4251ce0e3bf12d.png",
+    "static/media/gallery-3.png": "/wizytowka-numer-cztery/static/media/gallery-3.aff7cdc100278296e43f.png",
+    "static/media/gallery-1.png": "/wizytowka-numer-cztery/static/media/gallery-1.b2a31b0df4ac4fcfbef3.png",
+    "static/media/gallery-4.jpg": "/wizytowka-numer-cztery/static/media/gallery-4.7b5b45115245863f6181.jpg",
+    "static/media/team.jpg": "/wizytowka-numer-cztery/static/media/team.6acd817379e0d3833889.jpg",
+    "index.html": "/wizytowka-numer-cztery/index.html",
+    "main.2115a2fc.js.map": "/wizytowka-numer-cztery/static/js/main.2115a2fc.js.map"
   },
   "entrypoints": [
-    "static/js/main.1dc1f524.js"
+    "static/js/main.2115a2fc.js"
   ]
 }
