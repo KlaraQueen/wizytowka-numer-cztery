@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/wizytowka-numer-cztery/static/js/main.2115a2fc.js",
+    "main.js": "/wizytowka-numer-cztery/static/js/main.9c2d1784.js",
     "static/media/hero.jpg": "/wizytowka-numer-cztery/static/media/hero.568114dd957ffaa00a0d.jpg",
     "static/media/gallery-2.png": "/wizytowka-numer-cztery/static/media/gallery-2.d0caed4251ce0e3bf12d.png",
     "static/media/gallery-3.png": "/wizytowka-numer-cztery/static/media/gallery-3.aff7cdc100278296e43f.png",
@@ -8,9 +8,9 @@
     "static/media/gallery-4.jpg": "/wizytowka-numer-cztery/static/media/gallery-4.7b5b45115245863f6181.jpg",
     "static/media/team.jpg": "/wizytowka-numer-cztery/static/media/team.6acd817379e0d3833889.jpg",
     "index.html": "/wizytowka-numer-cztery/index.html",
-    "main.2115a2fc.js.map": "/wizytowka-numer-cztery/static/js/main.2115a2fc.js.map"
+    "main.9c2d1784.js.map": "/wizytowka-numer-cztery/static/js/main.9c2d1784.js.map"
   },
   "entrypoints": [
-    "static/js/main.2115a2fc.js"
+    "static/js/main.9c2d1784.js"
   ]
 }
