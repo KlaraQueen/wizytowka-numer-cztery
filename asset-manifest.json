@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/wizytowka-numer-cztery/static/js/main.9c2d1784.js",
-    "static/media/hero.jpg": "/wizytowka-numer-cztery/static/media/hero.568114dd957ffaa00a0d.jpg",
-    "static/media/gallery-2.png": "/wizytowka-numer-cztery/static/media/gallery-2.d0caed4251ce0e3bf12d.png",
-    "static/media/gallery-3.png": "/wizytowka-numer-cztery/static/media/gallery-3.aff7cdc100278296e43f.png",
-    "static/media/gallery-1.png": "/wizytowka-numer-cztery/static/media/gallery-1.b2a31b0df4ac4fcfbef3.png",
-    "static/media/gallery-4.jpg": "/wizytowka-numer-cztery/static/media/gallery-4.7b5b45115245863f6181.jpg",
-    "static/media/team.jpg": "/wizytowka-numer-cztery/static/media/team.6acd817379e0d3833889.jpg",
-    "index.html": "/wizytowka-numer-cztery/index.html",
-    "main.9c2d1784.js.map": "/wizytowka-numer-cztery/static/js/main.9c2d1784.js.map"
+    "main.js": "/Dark-Prestige-op439/static/js/main.00324dec.js",
+    "static/media/hero.jpg": "/Dark-Prestige-op439/static/media/hero.568114dd957ffaa00a0d.jpg",
+    "static/media/gallery-2.png": "/Dark-Prestige-op439/static/media/gallery-2.d0caed4251ce0e3bf12d.png",
+    "static/media/gallery-3.png": "/Dark-Prestige-op439/static/media/gallery-3.aff7cdc100278296e43f.png",
+    "static/media/gallery-1.png": "/Dark-Prestige-op439/static/media/gallery-1.b2a31b0df4ac4fcfbef3.png",
+    "static/media/gallery-4.jpg": "/Dark-Prestige-op439/static/media/gallery-4.7b5b45115245863f6181.jpg",
+    "static/media/team.jpg": "/Dark-Prestige-op439/static/media/team.6acd817379e0d3833889.jpg",
+    "index.html": "/Dark-Prestige-op439/index.html",
+    "main.00324dec.js.map": "/Dark-Prestige-op439/static/js/main.00324dec.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c2d1784.js"
+    "static/js/main.00324dec.js"
   ]
 }
